@@ -64,3 +64,30 @@ img {
 .seccion3 {
   text-align: center;
 }
+
+.footer {
+  display: flex;
+  color: white;
+  padding: 3px;
+  background-color: dimgray;
+}
+
+.footer p{
+  font-size: 11px;
+  margin: 0;
+  vertical-align: baseline;
+}
+
+.footer .nav {
+  margin-left: 10px;
+  height: 20px;
+}
+.footer .nav p{
+  font-size: 18px;
+  margin-left: 5px;
+  display:inline;
+}
+
+.footer a {
+  color: white;
+}
